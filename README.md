@@ -1,2 +1,2 @@
 # cube
-A SAAS that makes it easy for teammates to praise, recognize and appreciate each other
+A SaaS that makes it easy for teammates to praise, recognize and appreciate each other
